@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-19T09:32:49 IST" name="Default suite" finished-at="2022-04-19T09:33:05 IST" duration-ms="16028">
+    <groups>
+    </groups>
+    <test started-at="2022-04-19T09:32:49 IST" name="Default test" finished-at="2022-04-19T09:33:05 IST" duration-ms="16028">
+      <class name="DemoChromeLaunch.OpenApplicationGoogleChrome">
+        <test-method is-config="true" signature="configureBrowser()[pri:0, instance:DemoChromeLaunch.OpenApplicationGoogleChrome@50ad3bc1]" started-at="2022-04-19T09:32:49 IST" name="configureBrowser" finished-at="2022-04-19T09:32:53 IST" duration-ms="4497" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configureBrowser -->
+        <test-method signature="OpenGoogleAppChromeBrowser()[pri:0, instance:DemoChromeLaunch.OpenApplicationGoogleChrome@50ad3bc1]" started-at="2022-04-19T09:32:53 IST" name="OpenGoogleAppChromeBrowser" finished-at="2022-04-19T09:33:03 IST" duration-ms="9822" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenGoogleAppChromeBrowser -->
+        <test-method is-config="true" signature="closeApll()[pri:0, instance:DemoChromeLaunch.OpenApplicationGoogleChrome@50ad3bc1]" started-at="2022-04-19T09:33:03 IST" name="closeApll" finished-at="2022-04-19T09:33:05 IST" duration-ms="1624" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApll -->
+      </class> <!-- DemoChromeLaunch.OpenApplicationGoogleChrome -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
